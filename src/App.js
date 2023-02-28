@@ -17,6 +17,15 @@ function App() {
         >
           Learn React
         </a>
+
+        <a
+        className='App-link'
+        href='https://github.com/sajal1123'
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+          ALSO VISIT MY GITHUB
+        </a>
       </header>
     </div>
   );
