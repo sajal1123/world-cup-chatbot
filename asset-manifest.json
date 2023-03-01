@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/world-cup-chatbot/static/css/main.073c9b0a.css",
-    "main.js": "/world-cup-chatbot/static/js/main.7b76cfa9.js",
-    "static/js/787.a6c0b3ae.chunk.js": "/world-cup-chatbot/static/js/787.a6c0b3ae.chunk.js",
-    "static/media/logo.svg": "/world-cup-chatbot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/world-cup-chatbot/static/css/main.e6c13ad2.css",
+    "main.js": "/world-cup-chatbot/static/js/main.2ba9c1ef.js",
     "index.html": "/world-cup-chatbot/index.html",
-    "main.073c9b0a.css.map": "/world-cup-chatbot/static/css/main.073c9b0a.css.map",
-    "main.7b76cfa9.js.map": "/world-cup-chatbot/static/js/main.7b76cfa9.js.map",
-    "787.a6c0b3ae.chunk.js.map": "/world-cup-chatbot/static/js/787.a6c0b3ae.chunk.js.map"
+    "main.e6c13ad2.css.map": "/world-cup-chatbot/static/css/main.e6c13ad2.css.map",
+    "main.2ba9c1ef.js.map": "/world-cup-chatbot/static/js/main.2ba9c1ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7b76cfa9.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ba9c1ef.js"
   ]
 }
